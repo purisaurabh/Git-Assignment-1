@@ -13,27 +13,3 @@ git checkout :
 git stash : 
 git stash list : get the list of file which is the stash stack'
 git checkout file_name : revert the changes which is not commited which is in staged area in the respective file
-
-
-
-Today 
-stash
-checkout
-init
-add
-commit
-log
-show
-status
-
-
-
-Tomarrow
-clone
-push
-pull
-PR create
-merge
-rebase
-cherry pick
-branches
